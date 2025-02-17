@@ -1,3 +1,3 @@
 # VibeCheck
 
-My streamlit application link: http://192.168.0.138:8501
+My streamlit application link: https://vibecheck-oy45gk9ktp4r3n5q8isufh.streamlit.app
